@@ -1,0 +1,23 @@
+body{
+    background: #EBDEF0;
+    font-size: 150%;
+}
+
+header{
+    background: #C39BD3;
+	text-align: center;
+}
+
+h1{
+    color: #FDFEFE;
+}
+nav{
+	font-variant: small-caps;
+    font-family: Courier New, "Times New Roman", serif;
+}
+
+h2{
+    font-style: oblique;
+    color: #FDFEFE;
+    background: #C39BD3
+}
